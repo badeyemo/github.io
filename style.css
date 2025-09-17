@@ -1,8 +1,13 @@
+body {
+    background-color: red;
+}
+
 #container {
     font-size: 16px;
 }
 .main_heading {
     background-color: grey;
+    color: blueviolet;
 }
 .main {
      background-color: blue;
